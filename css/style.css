@@ -38,3 +38,7 @@ h1 {
 .description {
   font-size: 0.8rem;
 }
+
+ul {
+  padding-left: 15px;
+}
