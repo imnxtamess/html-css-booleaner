@@ -1,0 +1,108 @@
+body {
+  margin: 0px;
+}
+
+main {
+  width: 80%;
+  margin: auto;
+}
+
+p {
+  margin: 0px;
+}
+
+#site_header {
+  background-image: url(../assets/img/pattern.png);
+  background-color: #4ea0ff;
+}
+.logo {
+  width: 200px;
+  margin-top: 75px;
+  margin-bottom: 25px;
+  margin-left: 185px;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 0px;
+  margin-top: 25px;
+}
+
+.author {
+  color: #5cc0ec;
+}
+
+.subtitle {
+  color: #858585;
+}
+
+.description {
+  font-size: 0.8rem;
+}
+
+.headline_pictures {
+  margin-top: 8px;
+}
+
+ul {
+  padding-left: 15px;
+}
+
+table {
+  border: spacing 0;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding-left: 30px;
+  padding-right: 300px;
+  text-align: left;
+}
+
+th {
+  background-color: #20a9e5;
+  color: white;
+}
+
+#white-row {
+  background-color: white;
+}
+
+.colored-row {
+  background-color: #b1e5f2;
+}
+
+#suggestion1 {
+  background-image: url(../assets/img/monitor.jpg);
+}
+
+#suggestion2 {
+  background-image: url(../assets/img/graph.jpg);
+}
+
+#suggestion1,
+#suggestion2 {
+  color: white;
+  padding-bottom: 170px;
+  padding-right: 50px;
+  padding-left: 50px;
+  width: 21%;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 1.5rem;
+  background-repeat: no-repeat;
+}
+
+#site_footer {
+  margin-top: 15px;
+  margin-left: 10px;
+  text-align: right;
+}
+
+#Davide {
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+  color: #20a9e5;
+}
