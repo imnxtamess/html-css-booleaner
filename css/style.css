@@ -42,3 +42,7 @@ h1 {
 ul {
   padding-left: 15px;
 }
+
+table {
+  border-spacing: 30px;
+}
