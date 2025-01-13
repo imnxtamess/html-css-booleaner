@@ -92,3 +92,16 @@ th {
   font-size: 1.5rem;
   background-repeat: no-repeat;
 }
+
+#site_footer {
+  margin-top: 15px;
+  margin-left: 10px;
+  text-align: right;
+}
+
+#Davide {
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+  color: #20a9e5;
+}
