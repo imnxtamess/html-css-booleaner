@@ -39,6 +39,10 @@ h1 {
   font-size: 0.8rem;
 }
 
+.headline_pictures {
+  margin-top: 8px;
+}
+
 ul {
   padding-left: 15px;
 }
@@ -53,7 +57,6 @@ td {
   padding-left: 30px;
   padding-right: 300px;
   text-align: left;
-  background-color: #b1e5f2;
 }
 
 th {
@@ -63,5 +66,29 @@ th {
 
 #white-row {
   background-color: white;
-  color: red;
+}
+
+.colored-row {
+  background-color: #b1e5f2;
+}
+
+#suggestion1 {
+  background-image: url(../assets/img/monitor.jpg);
+}
+
+#suggestion2 {
+  background-image: url(../assets/img/graph.jpg);
+}
+
+#suggestion1,
+#suggestion2 {
+  color: white;
+  padding-bottom: 170px;
+  padding-right: 50px;
+  padding-left: 50px;
+  width: 21%;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 1.5rem;
+  background-repeat: no-repeat;
 }
