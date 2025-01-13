@@ -1,5 +1,14 @@
-.logo {
+body {
+  margin: 0px;
+}
+
+#site_header {
   background-image: url(../assets/img/pattern.png);
   background-color: #4ea0ff;
-  width: 100%;
+}
+.logo {
+  width: 200px;
+  margin-top: 75px;
+  margin-bottom: 25px;
+  margin-left: 10px;
 }
